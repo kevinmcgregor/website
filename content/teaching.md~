@@ -1,11 +1,11 @@
-+++
+'+++
 title = "Teaching"
 date = "2020-23-09"
 +++
 
 ### Course instructor
 1. **MATH 4931 - Simulation and the Monte Carlo Method**
-   *York University, Winter 2020*
+   * York University, Winter 2020
 
 2. **EPIB 521 - Regression Analysis for Health Sciences**
    * McGill University, Winter 2018
