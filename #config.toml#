@@ -1,6 +1,0 @@
-# Basic Configuration
-baseurl = "https://kevinmcgregor.github.io/"
-languageCode = "en"
-title = "Kevin McGregor"
-theme = "hyde-hyde"
-publishDir = "../kevinmcgregor.github.io/"

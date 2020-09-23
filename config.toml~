@@ -1,0 +1,45 @@
+## Basic Configuration
+baseurl = "https://kevinmcgregor.github.io/"
+languageCode = "en"
+title = "Kevin McGregor"
+theme = "hyde-hyde"
+publishDir = "../kevinmcgregor.github.io/"
+
+
+## Hugo Built-in Features
+# disqusShortname = "your-disqus-shortname"
+# googleAnalytics = "your-google-analytics-id"
+# enableRobotsTXT = true
+
+# summarylength = 30
+
+#paginate = 5
+
+#pygmentsUseClasses = true
+#pygmentsCodeFences = true
+
+## Site Settings
+[params]
+    author = "Kevin McGregor"
+    title = "Kevin McGregor"
+    # description = "..."
+    authorimage = "/img/kevin_zoom.jpg"
+    dateformat = "Jan 2, 2006"
+    highlightjs = true
+    highlightjsstyle = "github"
+    # please choose either GraphComment or Disqus or Utterances
+    #GraphCommentId = "..."
+    #UtterancesRepo = "https://utteranc.es/" # https://utteranc.es/
+    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
+    #UtterancesTheme = "..." # github-light or github-dark
+
+    # Table of contents
+    #toc = none, "hugo", or "tocbot"
+
+## Social Accounts
+[params.social]
+    github = "kevinmcgregor"
+    linkedin = "kevin-mcgregor-6b82029b"
+    twitter = "keviscos"
+    email = "kevin.mcgregor@mail.mcgill.ca"
+    # gravatar = "your-email@example.com"
