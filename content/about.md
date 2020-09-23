@@ -4,7 +4,7 @@ date = "2018-25-11"
 +++
 
 I'm currently a PhD candidate in Biostatistics in McGill University's [Department of Epidemiology, Biostatistics, and Occupational Health](https://www.mcgill.ca/epi-biostat-occh/).  My co-supervisors are [Celia Greenwood](https://www.mcgill.ca/epi-biostat-occh/celia-greenwood-1) and [Aurélie Labbe](https://www.hec.ca/en/profs/aurelie.labbe.html). 
-
+**In January 2021 I will be joining [York University's Department of Mathematics and statistics](https://www.yorku.ca/science/mathstats/) at the rank of Assistant Professor!**
 
 My research interests include:
 
