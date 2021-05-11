@@ -43,3 +43,39 @@ publishDir = "../kevinmcgregor.github.io/"
     twitter = "keviscos"
     email = "kevin.mcgregor@mail.mcgill.ca"
     # gravatar = "your-email@example.com"
+
+
+## Main Menu
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 100
+    url = "/about/"
+[[menu.main]]
+    name = "Posts"
+    weight = 600
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "Publications"
+    identifier = "publications"
+    weight = 300
+    url = "/publications/"
+
+[[menu.main]]
+    name = "Teaching"
+    identifier = "teaching"
+    weight = 400
+    url = "/teaching/"
+
+[[menu.main]]
+    name = "Software"
+    identifier = "software"
+    weight = 500
+    url = "/software/"
+
+[[menu.main]]
+    name = "CV"
+    identifier = "cv"
+    weight = 200
+    url = "/files/cv_website.pdf"
