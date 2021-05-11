@@ -4,9 +4,9 @@ date = "2018-26-11"
 +++
 
 ### Published Articles
-1.  \textbf{Kevin McGregor}, Aur\'elie Labbe, Celia MT Greenwood. Microbiome co-occurrence network estimation using covariance regression. \emph{Submitted to Biometrics in June 2020}
+1.  **Kevin McGregor**, Aurélie Labbe, Celia MT Greenwood. Microbiome co-occurrence network estimation using covariance regression. *Submitted to Biometrics in June 2020*
 
-2. \textbf{McGregor, Kevin}, Aurélie Labbe, and Celia MT Greenwood. "MDiNE: a model to estimate differential co-occurrence networks in microbiome studies." Bioinformatics 36.6 (2020): 1840-1847.
+2. **McGregor, Kevin**, Aurélie Labbe, and Celia MT Greenwood. "MDiNE: a model to estimate differential co-occurrence networks in microbiome studies." Bioinformatics 36.6 (2020): 1840-1847.
 
 3. Lea Thaler, Sarah Brassard, Esther Kahan, **Kevin McGregor**, Aurelie Labbe, Mimi Israel, and Howard Steiger. Methylation of the OXTR gene in women with Anorexia Nervosa: Relationship to Social Behavior. *Accepted in the European Eating Disorders Review: Sept 2019*
 
