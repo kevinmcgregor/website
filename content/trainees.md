@@ -1,9 +1,20 @@
 +++
 title = "Trainees"
-date = "2021-05-11"
+date = "2022-06-13"
 +++
 
-**I am supervising two undergraduate research assistants for the summer of 2021**
+** Current postdocs**
 
-* Yutong Chen (YorkU Dean's Undergraduate Research Award recipient)
-* Nneka Okaeme
+* Ismaila Ba - CANSSI Distinguished Postdoctoral Fellow
+
+** Current MA students **
+
+* Zhijie Li
+
+**Current undergraduate research assistants**
+
+* Nneka Okaeme - NSERC USRA 2022
+
+**Past undergraduate research assistants**
+
+* Yutong Chen - YorkU Dean's Undergraduate Research Award 2022
