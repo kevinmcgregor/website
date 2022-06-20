@@ -1,10 +1,10 @@
 +++
 title = "Teaching"
-date = "2020-23-09"
+date = "2022-06-20"
 +++
 
 ### Course instructor
-1. **MATH 2930 - Introductory Probability and Statistics**
+1. **MATH 3131 - Introductory Probability and Statistics**
    * York University, Fall 2021
 
 2. **MATH 4931 - Simulation and the Monte Carlo Method**
