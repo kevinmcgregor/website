@@ -85,3 +85,9 @@ publishDir = "../kevinmcgregor.github.io/"
     identifier = "cv"
     weight = 200
     url = "/files/cv_website.pdf"
+
+[[menu.main]]
+    name = "Consulting"
+    weight = 800
+    identifier = "consulting"
+    url = "/consulting/"
