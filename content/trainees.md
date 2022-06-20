@@ -5,7 +5,7 @@ date = "2022-06-13"
 
 **Current postdocs**
 
-* Ismaila Ba - CANSSI Distinguished Postdoctoral Fellow
+* Ismaila Ba - CANSSI Distinguished Postdoctoral Fellow, Co-supervised with Maxime Turgeon and Saman Muthukumarana (both at UManitoba)
 
 **Current MA students**
 
