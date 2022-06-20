@@ -3,11 +3,11 @@ title = "Trainees"
 date = "2022-06-13"
 +++
 
-** Current postdocs**
+**Current postdocs**
 
 * Ismaila Ba - CANSSI Distinguished Postdoctoral Fellow
 
-** Current MA students **
+**Current MA students**
 
 * Zhijie Li
 
