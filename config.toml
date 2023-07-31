@@ -53,15 +53,14 @@ publishDir = "../kevinmcgregor.github.io/"
     url = "/about/"
 [[menu.main]]
     name = "Posts"
-    weight = 700
     identifier = "posts"
+    weight = 200
     url = "/posts/"
 [[menu.main]]
     name = "Publications"
     identifier = "publications"
     weight = 300
     url = "/publications/"
-
 [[menu.main]]
     name = "Teaching"
     identifier = "teaching"
