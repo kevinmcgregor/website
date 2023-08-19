@@ -1,6 +1,6 @@
 +++
 title = "About Kevin"
-date = "2021-01-12"
+date = "2023-07-31"
 +++
 
 I'm an Assistant Professor in York University's [Department of Mathematics and Statistics](https://www.yorku.ca/science/mathstats/\
