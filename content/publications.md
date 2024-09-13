@@ -6,7 +6,7 @@ date = "2024-09-13"
 ### Published Articles
 1. Ba, I., Turgeon, M., Veniamin, S., Joel, J., Miller, R., Graham, M., ... & **McGregor, K.** (2024). A Bayesian factor analysis model for high-dimensional microbiome count data. *Submitted to Statistical Methods in Medical Research*
 
-2. **McGregor, K.**, Okaeme, N., Khorasaniha, R., Veniamin, S., Jovel, J., Miller, R., Mahmood, R., Graham, M., Bonner, C., Bernstein, C.N. and Arnold, D.L., 2023. Proportionality-based association metrics in count compositional data. *Submitted to Bioinformatics*
+2. **McGregor, K.**, Okaeme, N., Khorasaniha, R., Veniamin, S., Jovel, J., Miller, R., ... & Armstrong, H. (2023). Proportionality-based association metrics in count compositional data.
 
 3. **McGregor, Kevin**, Aurélie Labbe, Celia Mt Greenwood, Todd Parsons, and Christopher Quince. "Microbial community modelling and diversity estimation using the hierarchical Pitman-Yor process." *Submitted to Annals of Applied Statistics*
 
