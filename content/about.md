@@ -3,14 +3,14 @@ title = "About Kevin"
 date = "2023-07-31"
 +++
 
-I'm an Assistant Professor in York University's [Department of Mathematics and Statistics](https://www.yorku.ca/science/mathstats/\
-).  
+I'm an Assistant Professor in the University of Manitoba's [Department of Statistics](https://umanitoba.ca/science/statistics).  I was previously employed as a faculty member at York University.
 
 My research interests include:
 
 * Microbiome data analysis
 * Statistical genetics
 * Analysis of high-dimensional data
+* Composistional data
 * Network analysis in microbiome data
 * Bayesian statistical methods
 * Statistical analysis of DNA methylation data
