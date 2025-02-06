@@ -17,4 +17,4 @@ The PDF will play an integral role in the research project. The PDF will bring e
 The total salary for the will be $55,000 per year plus. Anticipated start date is July 1, 2025, for a period of two years.
 
 **Application:**
-Please submit an application to either [Kevin McGregor](kevin.mcgregor@umanitoba.ca), or to [Saman Muthukumarana](saman.muthukumarana@umanitoba.ca) by March 15, 2025.  A complete application includes a CV, research statement, and two letters of reference sent directly from the referees.
+Please submit an application to either Kevin McGregor (kevin.mcgregor@umanitoba.ca), or to Saman Muthukumarana (saman.muthukumarana@umanitoba.ca) by March 15, 2025.  A complete application includes a CV, research statement, and two letters of reference sent directly from the referees.
